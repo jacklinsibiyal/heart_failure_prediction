@@ -5,3 +5,4 @@ ipynb
 scikit-learn
 jupyter
 seaborn
+flask
